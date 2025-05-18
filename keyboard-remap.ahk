@@ -40,5 +40,7 @@ w::(
 x::)
 c::[
 v::]
+f::Send "{Ctrl Down}{Right}{Ctrl Up}"
+d::Send "{Ctrl Down}{Left}{Ctrl Up}"
 #HotIf
 
